@@ -51,3 +51,13 @@ hr {
 	border-top-style: solid;
 	border-top-color: #333;
 }
+.prices {
+	font-weight: bold;
+}
+
+.class_name {
+	font-style: italic;
+	padding: 3px;
+	font-weight: bold;
+	color: #DA6B20;
+}
