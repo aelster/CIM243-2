@@ -63,3 +63,9 @@ table {
 	color: #003;
 	text-align: center;
 }
+.form_table {
+	width: 625px;
+}
+td {
+	vertical-align: top;
+}
