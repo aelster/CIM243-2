@@ -49,6 +49,9 @@ table {
 .centered_text {
 	text-align: center;
 }
+.sidebar_centered {
+	text-align: center;
+}
 h3 {
 	font-size: medium;
 	color: #333;

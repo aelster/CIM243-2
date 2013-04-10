@@ -67,6 +67,7 @@ header {
 	background-color: #FFF;
 	padding-bottom: 10px;
 	float: left;
+	text-align: center;
 }
 .content {
 	width: 580px;
@@ -88,6 +89,7 @@ aside {
 	border-right-style: none;
 	border-bottom-style: none;
 	border-left-style: none;
+	text-align: left;
 }
 
 /* ~~ This grouped selector gives the lists in the .content area space ~~ */
