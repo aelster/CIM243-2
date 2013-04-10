@@ -52,18 +52,74 @@ Alvin, Texas 77511<br>
     <ol>
       <li class="body_text">Select plants according to your climate.</li>
       <li class="body_text">In planning your garden, consider the composition,  texture, structure, depth, and drainage of your soil.</li>
-      <li class="body_text">Use commpost to improve the  structure of your soil.</li>
+      <li class="body_text">Use compost to improve the  structure of your soil.</li>
       <li class="body_text">Choose plant foods based on your garden objectives.</li>
       <li class="body_text">Generally, plants should receive one inch of water per  week.</li>
       <li class="body_text">Use mulch to conserve moisture, keep plants cool, and  cut down on weeding.</li>
     </ol>
+    <form action="" method="post" name="submit_tips" target="_self" id="submit_tips">
+      <table class="tip_table">
+        <tr>
+          <th colspan="2" scope="col">Submit Your Favorite Gardening Tip</th>
+        </tr>
+        <tr>
+          <td>Email*</td>
+          <td><input name="email" type="text" id="email" size="30" maxlength="150"></td>
+        </tr>
+        <tr>
+          <td>Category</td>
+          <td><select name="category" id="category">
+            <option value="none">Select from list</option>
+            <option value="weeds">Weed control</option>
+            <option value="growth">General growth</option>
+            <option value="pests">Pest Control</option>
+          </select></td>
+        </tr>
+        <tr>
+          <td>Subject</td>
+          <td><input type="text" name="textfield" id="textfield"></td>
+        </tr>
+        <tr>
+          <td>Description</td>
+          <td><textarea name="description" cols="40" rows="5" id="description"></textarea></td>
+        </tr>
+        <tr>
+          <td colspan="2"><label>How long have you been gardening?</label>&nbsp;
+            <p>
+              <label>
+                <input type="radio" name="years_gardening" value="1+" id="years_gardening_0">
+                1 to 5 years</label>
+              <br>
+              <label>
+                <input type="radio" name="years_gardening" value="5+" id="years_gardening_1">
+                5 to 10 years</label>
+              <br>
+              <label>
+                <input type="radio" name="years_gardening" value="10+" id="years_gardening_2">
+                Over 10 years</label>
+              <br>
+          </p></td>
+        </tr>
+        <tr>
+          <td colspan="2"><label>Receive notification when new tips are submitted?</label> <input name="notification" type="checkbox" id="notification" value="yes"></td>
+        </tr>
+        <tr>
+          <td><input name="required" type="hidden" id="required" value="email"></td>
+          <td><input type="submit" name="submit" id="submit" value="Submit"> <input type="reset" name="reset" id="reset" value="Reset"></td>
+        </tr>
+        <tr>
+          <td colspan="2">*Required field</td>
+        </tr>
+      </table>
+    </form>
+    <p>&nbsp;</p>
     <h1>&nbsp;</h1>
 <section> </section>
   <!-- end .content --></article>
   <footer>
     <p><span class="small_text">Copyright 2001 - 2015<br>
 Last updated on
-    <!-- #BeginDate format:Am1 -->April 3, 2013<!-- #EndDate -->
+    <!-- #BeginDate format:Am1 -->April 9, 2013<!-- #EndDate -->
     </span></p>
 </footer>
 <!-- end .container --></div>
