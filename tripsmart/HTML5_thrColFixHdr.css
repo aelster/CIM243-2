@@ -45,6 +45,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	margin-left: auto;
 	padding-right: 5px;
 	padding-left: 5px;
+	position: relative;
 }
 /* ~~ The header is not given a width. It will extend the full width of your layout. ~~ */
 header {
