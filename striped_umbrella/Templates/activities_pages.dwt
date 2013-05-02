@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="../starfish.ico" type="image/x-icon"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Striped Umbrella Beach Resort</title>
+<!-- TemplateEndEditable -->
+<link href="../su_styles.css" rel="stylesheet" type="text/css">
+<link href="../HTML5_twoColFixRtHdr.css" rel="stylesheet" type="text/css">
+<link href="../SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <header>
+<img src="../assets/su_banner.gif" alt="The Striped Umbrella banner" width="950" height="139" /><br>
+    <ul id="Menu" class="MenuBarHorizontal">
+      <li><a href="../index.html">Home</a></li>
+      <li><a href="../about_us.html">About Us</a></li>
+      <li><a href="../cafe.html">Sand Crab Cafe</a></li>
+      <li><a href="../spa.html">The Sea Spa</a></li>
+      <li><a href="../activities.html" class="MenuBarItemSubmenu">Activities</a>
+        <ul>
+          <li><a href="../cruises.html">Cruises</a></li>
+          <li><a href="../fishing.html">Fishing</a></li>
+          <li><a href="../golfing.html">Golfing</a></li>
+        </ul>
+      </li>
+    </ul>
+    <br>
+    <p class="body_text"></p>
+  </header>
+  <div class="sidebar1">
+    <p><br>
+    <img src="../assets/cafe_logo.gif" width="140" height="116" alt="Sand Crabe Cafe logo"></p>
+    <p>We'll be happy to pack a lunch and/or cold drinks for your day's activities.<br> 
+      
+      <!-- end .sidebar1 -->      Call<br>
+ 555-594-9458: extension 55.  </p>
+  </div>
+  <!-- TemplateBeginEditable name="contents" -->
+  <article class="content">
+    <p><img src="../assets/boats.jpg" width="280" height="339" alt="Boats at dock" class="img_right_float" />This is the Dolphin Racer at dock. We leave daily at 4:00 p.m.and 6:30 p.m. for 1-1/2 hour cruises. There are snacks and restrooms available on board. We welcome children of all ages. Our ship is a U.S. Coast Guard approved vessel and our captain is a former member of the Coast Guard. Call The Club desk for reservations. </p>
+    <p class="body_text">If you plan to join us, please apply sunscreen liberally before you leave. A hat that can be securely tied to your head is a must. Be sure to bring your video camera because you will not want to miss the opportunity to take some great footage of the dolphins at play. </p>
+    <section> </section>
+    <!-- end .content -->
+  </article>
+  <!-- TemplateEndEditable -->
+  <footer>
+    <hr>
+    <p><a href="../cruises.html">Cruises</a> &#8212; <a href="../fishing.html">Fishing</a> &#8212; <a href="../golfing.html">Golfing</a><br>
+    </p>
+</footer>
+<!-- end .container --></div>
+<script type="text/javascript">
+var MenuBar1 = new Spry.Widget.MenuBar("Menu", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+</script>
+</body>
+</html>
