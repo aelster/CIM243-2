@@ -1,36 +1,36 @@
 <!doctype html>
-<html><!-- InstanceBegin template="/Templates/recipes.dwt" codeOutsideHTMLIsLocked="false" -->
+<html>
 <head>
 <meta charset="utf-8">
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Carolyne's Creations: Premier Gourmet Food Shop</title>
-<!-- InstanceEndEditable -->
-<link href="HTML5_twoColFixRtHdr.css" rel="stylesheet" type="text/css">
-<link href="cc_styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<link href="../HTML5_twoColFixRtHdr.css" rel="stylesheet" type="text/css">
+<link href="../cc_styles.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<!-- InstanceBeginEditable name="head" -->
-<!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
 
 <div class="container">
-  <header><img src="assets/cc_banner_with_text.jpg" alt="Carolyne's banner" width="950" height="150" style="border:0" usemap="#Map" />
+  <header><img src="../assets/cc_banner_with_text.jpg" alt="Carolyne's banner" width="950" height="150" style="border:0" usemap="#Map" />
     <map name="Map" id="Map">
-      <area shape="rect" coords="504,128,581,148" href="index.html" target="_top" alt="Link to home page" />
-      <area shape="rect" coords="586,127,654,151" href="shop.html" target="_top" alt="Link to shop page" />
-      <area shape="rect" coords="660,128,736,152" href="classes.html" target="_top" alt="Link to classes page" />
-      <area shape="rect" coords="746,128,829,153" href="catering.html" target="_top" alt="Link to catering page" />
-      <area shape="rect" coords="839,129,926,149" href="recipes.html" target="_top" alt="Link to recipes page" />
+      <area shape="rect" coords="504,128,581,148" href="../index.html" target="_top" alt="Link to home page" />
+      <area shape="rect" coords="586,127,654,151" href="../shop.html" target="_top" alt="Link to shop page" />
+      <area shape="rect" coords="660,128,736,152" href="../classes.html" target="_top" alt="Link to classes page" />
+      <area shape="rect" coords="746,128,829,153" href="../catering.html" target="_top" alt="Link to catering page" />
+      <area shape="rect" coords="839,129,926,149" href="../recipes.html" target="_top" alt="Link to recipes page" />
     </map>
   </header>
   <div class="sidebar1">
    <h1 class="body_text"><br>
      Featured Recipes:</h1>
-   <p class="body_text"><a href="recipes.html">Caramel Coconut Pie</a></p>
-   <p class="body_text"><a href="fried_green_tomatoes.html">Fried Green Tomatoes</a></p>
+   <p class="body_text"><a href="../recipes.html">Caramel Coconut Pie</a></p>
+   <p class="body_text"><a href="../fried_green_tomatoes.html">Fried Green Tomatoes</a></p>
    <hr>
    <p class="body_text">Carolyne's Creations<br>
       496 Maple Avenue<br>
@@ -48,12 +48,12 @@
     <p>&nbsp;</p>
     <p>&nbsp;</p>
   </div>
-  <!-- InstanceBeginEditable name="name_description_recipe" -->
+  <!-- TemplateBeginEditable name="name_description_recipe" -->
   <article class="content">
     <h1>Caramel Coconut Pie</h1>
     <section>
       <p class="body_text">This is one of our most requested desserts. It is simple,  elegant, and refreshing. It is easy to make in advance, because you keep it  frozen until just before serving. It makes two pies — one to eat and one to give  away!</p>
-      <img src="assets/pie.jpg" alt="Caramel Coconut Pie" width="300" class="image_left_float" />
+      <img src="../assets/pie.jpg" alt="Caramel Coconut Pie" width="300" class="image_left_float" />
       <h2>Ingredients:</h2>
       <ul>
         <li class="body_text">¼ cup butter</li>
@@ -65,7 +65,6 @@
         <li class="body_text">1 jar (12 oz.) caramel ice cream topping</li>
         <li class="body_text"> 2 pie shells (9 in.), baked </li>
       </ul>
-      <h2>&nbsp;</h2>
       <h2>Directions:</h2>
       <p class="body_text">Melt butter in large skillet. Add coconut &amp; pecans; cook  until golden brown, stirring frequently. Set aside. 
         Combine cream cheese &amp; milk. Beat until smooth, then fold  in whipped topping. 
@@ -75,7 +74,7 @@
     </section>
     <!-- end .content -->
   </article>
-  <!-- InstanceEndEditable -->
+  <!-- TemplateEndEditable -->
   <footer>
     <p><span class="small_text">Copyright 2001 - 2015 <br>
 Last updated on
@@ -84,4 +83,4 @@ Last updated on
 </footer>
 <!-- end .container --></div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
