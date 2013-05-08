@@ -56,7 +56,7 @@
   <!-- TemplateEndEditable -->
   <footer>
     <hr>
-    <p><a href="../cruises.html">Cruises</a> &#8212; <a href="../fishing.html">Fishing</a> &#8212; <a href="../golfing.html">Golfing</a><br>
+    <p><!-- #BeginLibraryItem "/Library/logo.lbi" --><img src="../assets/su_logo.gif" alt="The Striped Umbrella logo" width="220" height="98" class="img_middle_align"><!-- #EndLibraryItem --><a href="../cruises.html">Cruises</a> &#8212; <a href="../fishing.html">Fishing</a> &#8212; <a href="../golfing.html">Golfing</a><br>
     </p>
 </footer>
 <!-- end .container --></div>
