@@ -35,7 +35,56 @@ img, object, embed, video {
 	padding-left: 1.82%;
 	padding-right: 1.82%;
 }
-#LayoutDiv1 {
+#head {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#stages {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#main_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#starlight_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#satellite_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#neon_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#content {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#footer {
 	clear: both;
 	float: left;
 	margin-left: 0;
@@ -51,7 +100,56 @@ img, object, embed, video {
 	padding-left: 1.1625%;
 	padding-right: 1.1625%;
 }
-#LayoutDiv1 {
+#head {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#stages {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#main_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 48.7179%;
+	display: block;
+}
+#starlight_stage {
+	clear: none;
+	float: left;
+	margin-left: 2.5641%;
+	width: 48.7179%;
+	display: block;
+}
+#satellite_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 48.7179%;
+	display: block;
+}
+#neon_stage {
+	clear: none;
+	float: left;
+	margin-left: 2.5641%;
+	width: 48.7179%;
+	display: block;
+}
+#content {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#footer {
 	clear: both;
 	float: left;
 	margin-left: 0;
@@ -70,7 +168,56 @@ img, object, embed, video {
 	padding-right: 0.9%;
 	margin: auto;
 }
-#LayoutDiv1 {
+#head {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#stages {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 100%;
+	display: block;
+}
+#main_stage {
+	clear: both;
+	float: left;
+	margin-left: 0;
+	width: 18.3673%;
+	display: block;
+}
+#starlight_stage {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 18.3673%;
+	display: block;
+}
+#satellite_stage {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 18.3673%;
+	display: block;
+}
+#neon_stage {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 18.3673%;
+	display: block;
+}
+#content {
+	clear: none;
+	float: left;
+	margin-left: 2.0408%;
+	width: 18.3673%;
+	display: block;
+}
+#footer {
 	clear: both;
 	float: left;
 	margin-left: 0;
