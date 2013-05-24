@@ -1,0 +1,235 @@
+@charset "utf-8";
+/* Mobile Layout: 480px and below. */
+
+.gridContainer {
+	background-image: url(../graphics/nb_content_back.jpg);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	border: medium double #99cbb3;
+}
+#head {
+		
+}
+#stages {
+	
+}
+#main_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */;
+}
+#starlight_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#satellite_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#neon_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#content {
+	
+}
+#footer {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+
+/* Tablet Layout: 481px to 768px. Inherits styles from: Mobile Layout. */
+
+@media only screen and (min-width: 481px) {
+.gridContainer {
+	background-image: url(../graphics/nb_content_back.jpg);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	border: medium double #99cbb3;
+}
+#head {
+	
+}
+#stages {
+	
+}
+#main_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#starlight_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#satellite_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#neon_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#content {
+	
+}
+#footer {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+}
+
+/* Desktop Layout: 769px to a max of 1232px.  Inherits styles from: Mobile Layout and Tablet Layout. */
+
+@media only screen and (min-width: 769px) {
+.gridContainer {
+	background-image: url(../graphics/nb_content_back.jpg);
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	border: medium double #99cbb3;
+}
+#head {
+	
+}
+#stages {
+	
+}
+#main_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#starlight_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#satellite_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#neon_stage {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+#content {
+	
+}
+#footer {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	background-color: #CFF;
+	opacity:0.8;
+   filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+}
